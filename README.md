@@ -66,6 +66,7 @@ LifeVault/
 ## Prototype Link
 
 https://stitch.withgoogle.com/projects/7214429996157694195
+
 **Conclusion:**
 
 LifeVault provides a secure, AI-powered solution for managing important personal documents with ease and efficiency. Its modern design and smart features make document storage, access, and organization simple, secure, and reliable.
